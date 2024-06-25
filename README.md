@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lautarounlp&label=Profile%20views&color=0e75b6&style=flat" alt="lautarounlp" /> </p>
 
-- 🌱 I’m currently learning **Typescrypt and Tailwind CSS**
+- 🌱 I’m currently learning **Java Spring**
 
-- 🤝 I’m looking a job as **Full Stack Developer Jr**
+- 🤝 I’m looking a job as **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [....](....)
 
